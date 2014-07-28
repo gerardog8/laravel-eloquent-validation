@@ -1,0 +1,19 @@
+{
+    "name": "gerardog8/evident",
+    "description": "Model validation for laravel",
+    "authors": [
+        {
+            "name": "Gerardo Gómez",
+            "email": "gerardo.gomez.r@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "GerardoG8\\Evident": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
