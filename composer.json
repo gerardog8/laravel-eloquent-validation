@@ -7,9 +7,6 @@
             "email": "gerardo.gomez.r@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0"
-    },
     "autoload": {
         "psr-0": {
             "GerardoG8\\Evident": "src/"
